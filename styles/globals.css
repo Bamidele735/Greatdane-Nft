@@ -90,3 +90,17 @@ ul {
 li {
   list-style: none;
 }
+
+
+
+
+
+
+
+.flex{
+  display: flex;
+  gap: 20px;
+}
+.flex img{
+  width: 100px;
+}

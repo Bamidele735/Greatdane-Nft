@@ -39,27 +39,22 @@ function LandingPage() {
             3D
             <span> Puppy</span> Great AI Membership NFT for only 002 eth
           </p>
+          <a href="https://opensea.io/assets/ethereum/0x495f947276749ce646f68ac8c248420045cb7b5e/48760789782580478763268640797904535875148286416968189521809234012636715156456" target="_blank" >
           <button
             className="landing-btn"
             data-aos="fade-up"
             data-aos-duration="3000"
           >
-            <Link
-              href="https://opensea.io/assets/ethereum/0x495f947276749ce646f68ac8c248420045cb7b5e/48760789782580478763268640797904535875148286416968189521809234010437691901904"
-              target="_blank"
-            >
               Try for FREE
-            </Link>
+            
+          
             <div
               className="icon"
               data-aos="fade-down"
               data-aos-easing="linear"
               data-aos-duration="3000"
             >
-              <Link
-                href="https://opensea.io/assets/ethereum/0x495f947276749ce646f68ac8c248420045cb7b5e/48760789782580478763268640797904535875148286416968189521809234010437691901904"
-                target="_blank"
-              >
+              <a href="https://opensea.io/assets/ethereum/0x495f947276749ce646f68ac8c248420045cb7b5e/48760789782580478763268640797904535875148286416968189521809234012636715156456" target="_blank" >
                 <svg
                   width="7"
                   height="11"
@@ -72,9 +67,10 @@ function LandingPage() {
                     fill="#ffffff"
                   />
                 </svg>{" "}
-              </Link>
+              </a>
             </div>
           </button>
+            </a>
         </aside>
 
         <aside
