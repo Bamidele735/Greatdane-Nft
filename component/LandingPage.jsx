@@ -79,7 +79,7 @@ function LandingPage() {
           data-aos-duration="3000"
         >
           {/* <img src={BTCbg.src} alt="btc" className="btcIMG" /> */}
-          <img src={dogggnft.src} alt="btc" className="dogggnft" />
+          <img src="https://gateway.pinata.cloud/ipfs/QmPwa8H44CbgxEUEG9WwSq5d4SUa27CZbUMguJCyXxGpmz?_gl=1*119xkmz*rs_ga*ZmU5YTA5YjEtM2MwZC00MTgwLTk2MDMtY2U4ZTUwYjVjOThl*rs_ga_5RMPXG14TE*MTY4MjY0MTA4Ni4xNC4xLjE2ODI2NDMwNDAuNjAuMC4w" alt="hd alpha" className="dogggnft" />
         </aside>
       </section>
     </div>
