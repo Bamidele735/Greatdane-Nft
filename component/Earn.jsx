@@ -149,13 +149,13 @@ function Earn() {
               <header>Meta Space Debris</header>
               <h1>
                 <a
-                  href="http://Meta.greatdanai.com"
+                  href="http://Beta.greatdaneai.com"
                   target="_blank"
                   className="flex"
                   rel="noopener noreferrer"
                 >
                   <button className="landing-btn ">
-                    Meta.greatdanai.com
+                    Beta.greatdaneai.com
                     <AiOutlineLink />{" "}
                   </button><p>MINT DEBRIS</p>
                 </a>
