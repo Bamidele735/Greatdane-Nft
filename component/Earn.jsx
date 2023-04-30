@@ -58,13 +58,13 @@ function Earn() {
                   <header>Beta Collection: </header>
                   <h1>
                     <a
-                      href="http://Beta.greattdaneai.com"
+                      href="http://Beta.greatdaneai.com"
                       target="_blank"
                       className="flex"
                       rel="noopener noreferrer"
                     >
                       <button className="landing-btn ">
-                        Beta.greattdaneai.com
+                        Beta.greatdaneai.com
                         <AiOutlineLink />{" "}
                       </button><p>MINT BETA</p>
                     </a>
