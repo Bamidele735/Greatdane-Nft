@@ -49,12 +49,12 @@ function NavbarMenu() {
             <div className="offcanvas-body">
               <ul className="navbar-nav justify-content-end flex-grow-1 pe-3">
                 <li className="nav-item">
-                  <a className="nav-link" aria-current="page" href="#products">
+                  <a className="nav-link" aria-current="page" href="/#products">
                     Products
                   </a>
                 </li>
                 <li className="nav-item">
-                  <a className="nav-link" href="/#">
+                  <a className="nav-link" href="/whyus#roadmap">
                     Road Map
                   </a>
                 </li>{" "}
@@ -64,7 +64,7 @@ function NavbarMenu() {
                   </a>
                 </li>{" "}
                 <li className="nav-item">
-                  <a className="nav-link" href="#Contact">
+                  <a className="nav-link" href="mailto: GreatDaneInu21@gmail.com">
                     Contact
                   </a>
                 </li>{" "}

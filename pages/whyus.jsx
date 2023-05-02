@@ -1,6 +1,7 @@
 import React from "react";
 import Choose from "../public/images/batnft.png";
 import Ushape from "../public/images/ushape.png";
+import roadmap from "../public/images/ai.jpg";
 export default function whyus() {
   return (
     <div className="rowx container why_us">
@@ -59,6 +60,9 @@ export default function whyus() {
           they are 1/10 or 1/100. You would need all 10 or all 100 of the
           artifact NFTs to obtain the object. Keep it NFT, keep it unreal!
         </p>
+        <div className="roadmap" id="roadmap">
+          <img src={roadmap.src} className="roadimg" alt="roadmap"/>
+        </div>
       </div>
       <aside className="ushape">
         <img src={Ushape.src} alt="ushape" />

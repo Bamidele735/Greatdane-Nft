@@ -26,6 +26,7 @@ function CryptoActive(props) {
             id,
             coinText,
             coinDetails,
+            url,
             image,
             contactAddressLogo,
           } = item;
@@ -50,7 +51,7 @@ function CryptoActive(props) {
                   id === active ? "mining-btn" : " btn-circle  "
                 } off-mine-btn  `}
               >
-                <a href="/#/">{coinDetails}</a>
+                <a href={url} target="_blank">{coinDetails}</a>
 
                 <div className="icon">
                   <svg

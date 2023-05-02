@@ -10,6 +10,7 @@ export default [
     coin: "$GreatAI",
     coinText: "Digital NFTS in which a record of transactions is maintained. ",
     coinDetails: "Start Minting",
+    url: "https://www.greatdaneai.com/",
     image: Btc,
     contactAddressLogo: PolygonLogo,
   },
@@ -20,16 +21,18 @@ export default [
     coinText:
       "$DEBRIS on Polygon for low transaction fees rewarding in GREATAI.",
     coinDetails: "Start Minting",
+    url: "https://beta.greatdaneai.com/",
     image: Eth,
     contactAddressLogo: PolygonLogo,
   },
   {
     id: 3,
-    coinName: "3.	GREAT DANE AI ",
+    coinName: "3.	GREAT FLOWER ",
     coin: "$GREATAI",
     coinText: "Invest in the AI world.",
     coinDetails: "Start Minting",
+    url: "https://flower.greatdaneai.com/",
     image: Lte,
-    contactAddressLogo: EthLogo,
+    contactAddressLogo: PolygonLogo,
   },
 ];

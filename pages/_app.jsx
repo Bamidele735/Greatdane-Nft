@@ -20,8 +20,8 @@ import { publicProvider } from "wagmi/providers/public";
 import Layout from "../Layout/layout";
 const mumbaiChain = {
   id: 137,
-  name: "  Polygon ",
-  network: "Polygon",
+  name: "Polygon Mainnet",
+  network: "Mainnet",
   nativeCurrency: {
     decimals: 18,
     name: "MATIC",
@@ -34,7 +34,7 @@ const mumbaiChain = {
   blockExplorers: {
     default: {
       name: "MATIC",
-      url: "https://polygon-rpc.com",
+      url: "https://polygonscan.com/",
     },
   },
   testnet: true,
