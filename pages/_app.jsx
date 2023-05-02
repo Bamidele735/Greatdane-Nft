@@ -19,22 +19,22 @@ import { jsonRpcProvider } from "wagmi/providers/jsonRpc";
 import { publicProvider } from "wagmi/providers/public";
 import Layout from "../Layout/layout";
 const mumbaiChain = {
-  id: 80001,
-  name: "  Mumbai ",
-  network: "Mumbai",
+  id: 137,
+  name: "  Polygon ",
+  network: "Polygon",
   nativeCurrency: {
     decimals: 18,
     name: "MATIC",
     symbol: "MATIC",
   },
   rpcUrls: {
-    default: "https://rpc-mumbai.maticvigil.com",
-    public: "https://rpc-mumbai.maticvigil.com",
+    default: "https://polygon-rpc.com",
+    public: "https://polygon-rpc.com",
   },
   blockExplorers: {
     default: {
       name: "MATIC",
-      url: "https://mumbai.polygonscan.com/",
+      url: "https://polygon-rpc.com",
     },
   },
   testnet: true,
