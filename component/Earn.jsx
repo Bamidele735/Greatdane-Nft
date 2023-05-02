@@ -27,7 +27,7 @@ function Earn() {
                   <header>Alpha Collection</header>
                   <h1>
                     <a
-                      href="http://Greatdaneai.com"
+                      href="https://Greatdaneai.com"
                       target="_blank"
                       className="flex"
                       rel="noopener noreferrer"
@@ -41,7 +41,7 @@ function Earn() {
                   </h1>
                   <h1>
                     <a
-                      href="http://Stake.greatdaneai.com"
+                      href="https://Stake.greatdaneai.com"
                       target="_blank"
                       className="flex"
                       rel="noopener noreferrer"
@@ -58,7 +58,7 @@ function Earn() {
                   <header>Beta Collection: </header>
                   <h1>
                     <a
-                      href="http://Beta.greatdaneai.com"
+                      href="https://Beta.greatdaneai.com"
                       target="_blank"
                       className="flex"
                       rel="noopener noreferrer"
@@ -71,7 +71,7 @@ function Earn() {
                   </h1>
                   <h1>
                     <a
-                      href="http://Bstake.greatdaneai.com"
+                      href="https://Bstake.greatdaneai.com"
                       target="_blank"
                       className="flex"
                       rel="noopener noreferrer"
@@ -89,7 +89,7 @@ function Earn() {
                   <header>Gamma Collection</header>
                   <h1>
                     <a
-                      href="http://Bat.greatdaneai.com"
+                      href="https://Bat.greatdaneai.com"
                       target="_blank"
                       className="flex"
                       rel="noopener noreferrer"
@@ -102,7 +102,7 @@ function Earn() {
                   </h1>
                   <h1>
                     <a
-                      href="http://Bbat.greatdaneai.com"
+                      href="https://Bbat.greatdaneai.com"
                       target="_blank"
                       className="flex"
                       rel="noopener noreferrer"
@@ -118,7 +118,7 @@ function Earn() {
                   <header>Flowers on a Wednesday </header>
                   <h1>
                     <a
-                      href="http://Flower.greatdaneai.com"
+                      href="https://Flower.greatdaneai.com"
                       target="_blank"
                       className="flex"
                       rel="noopener noreferrer"
@@ -131,7 +131,7 @@ function Earn() {
                   </h1>
                   <h1>
                     <a
-                      href="http://Bflower.greatdaneai.com"
+                      href="https://Bflower.greatdaneai.com"
                       target="_blank"
                       className="flex"
                       rel="noopener noreferrer"
@@ -149,7 +149,7 @@ function Earn() {
               <header>Meta Space Debris</header>
               <h1>
                 <a
-                  href="http://Beta.greatdaneai.com"
+                  href="https://Beta.greatdaneai.com"
                   target="_blank"
                   className="flex"
                   rel="noopener noreferrer"
@@ -162,7 +162,7 @@ function Earn() {
               </h1>
               <h1>
                 <a
-                  href="http://Bmeta.greatdaneai.com"
+                  href="https://opensea.io/assets/ethereum/0x495f947276749ce646f68ac8c248420045cb7b5e/33850203555060265441690095836019315885599305651793399128281417942282352459786"
                   target="_blank"
                   className="flex"
                   rel="noopener noreferrer"
