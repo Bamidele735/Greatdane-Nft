@@ -147,7 +147,7 @@ function Earn() {
             </div>
             <div className="ESTIMATED">
               <header>Meta Space Debris</header>
-              <h1>
+              {/* <h1>
                 <a
                   href="https://Beta.greatdaneai.com"
                   target="_blank"
@@ -159,7 +159,7 @@ function Earn() {
                     <AiOutlineLink />{" "}
                   </button><p>MINT DEBRIS</p>
                 </a>
-              </h1>
+              </h1> */}
               <h1>
                 <a
                   href="https://opensea.io/assets/ethereum/0x495f947276749ce646f68ac8c248420045cb7b5e/33850203555060265441690095836019315885599305651793399128281417942282352459786"
