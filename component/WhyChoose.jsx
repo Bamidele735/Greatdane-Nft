@@ -15,7 +15,7 @@ function WhyChoose() {
       <div className="col50 choose" data-aos="fade-up" data-aos-duration="3000">
         <h1> Why Great Dane NFts</h1>
         <p className="why_greate_dane_p">
-          Great Danes Love Steak - Staking - earning - burning - winning
+          Great Danes- Holding-Burning-Winning
         </p>
         <p>
           Brush off the sofa and make room. Great Dane AI is settling in as the
