@@ -41,13 +41,13 @@ function Earn() {
                   </h1>
                   <h1>
                     <a
-                      href="https://Stake.greatdaneai.com"
+                      href="https://Greatdaneai.com/stake"
                       target="_blank"
                       className="flex"
                       rel="noopener noreferrer"
                     >
                       <button className="landing-btn ">
-                        Stake.greatdaneai.com
+             Greatdaneai.com/stake
                         <AiOutlineLink />
                       </button><p>STAKE ALPHA</p>
                       
@@ -71,13 +71,13 @@ function Earn() {
                   </h1>
                   <h1>
                     <a
-                      href="https://Bstake.greatdaneai.com"
+                      href="https://Beta.greatdaneai.com/stake"
                       target="_blank"
                       className="flex"
                       rel="noopener noreferrer"
                     >
                       <button className="landing-btn ">
-                        Bstake.greatdaneai.com
+                      Beta.greatdaneai.com/stake
                         <AiOutlineLink />{" "}
                       </button><p>STAKE BETA</p>
                     </a>
@@ -102,7 +102,7 @@ function Earn() {
                   </h1>
                   <h1>
                     <a
-                      href="https://Bbat.greatdaneai.com"
+                      href="https://Bat.greatdaneai.com/stake"
                       target="_blank"
                       className="flex"
                       rel="noopener noreferrer"
@@ -131,13 +131,13 @@ function Earn() {
                   </h1>
                   <h1>
                     <a
-                      href="https://Bflower.greatdaneai.com"
+                      href="https://Flower.greatdaneai.com/stake"
                       target="_blank"
                       className="flex"
                       rel="noopener noreferrer"
                     >
                       <button className="landing-btn ">
-                        Bflower.greatdaneai.com
+                        Flower.greatdaneai.com
                         <AiOutlineLink />{" "}
                       </button><p>STAKE FLOWER</p>
                     </a>
@@ -168,7 +168,7 @@ function Earn() {
                   rel="noopener noreferrer"
                 >
                   <button className="landing-btn ">
-                    Bmeta.greatdaneai.com
+                    on opensea
                     <AiOutlineLink />{" "}
                   </button><p>STAKE DEBRIS</p>
                 </a>
