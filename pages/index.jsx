@@ -16,16 +16,29 @@ import { ConnectButton } from "@rainbow-me/rainbowkit";
 import Splash from "./splash";
 
 export default function Home() {
+  const [loading, setLoading] = useState(true);
+
+  useEffect(() => {
+    const timer = setTimeout(() => {
+      setLoading(false);
+    }, 5000);
+    return () => clearTimeout(timer);
+  }, []);
 
   return (
     <div>
-        <>
+      {loading ? (
+        <Splash />
+        ) : (
+          <>
+          {/* <Splash /> */}
           <LandingPage />
           <CountUpp />
           <WhyChoose />
           <Earn />
           <Sentiments />
         </>
+      )}
     </div>
   );
 }
