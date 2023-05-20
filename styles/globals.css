@@ -105,6 +105,18 @@ li {
 }
 
 
+.Marquee{
+  margin: 20px;
+}
+.Marq {
+  margin-left: 5px;
+}
+.HomeMarquee{
+  overflow: hidden;
+  width: 95vw;
+}
+
+
 
 
 
