@@ -35,19 +35,19 @@ function Earn() {
                       <button className="landing-btn ">
                         Greatdaneai.com
                         <AiOutlineLink />
-                      </button> <p>MINT ALPHA</p>
+                      </button> <p>Mint Portraits of Soldiers and Citizens</p>
                       {/* <img className="only" src="https://gateway.pinata.cloud/ipfs/QmX8iMVKq9iW1FuV7fB2WrC7kc9dxMXh17VJvZNcKRmp4K?_gl=1*eovuu5*rs_ga*ZmU5YTA5YjEtM2MwZC00MTgwLTk2MDMtY2U4ZTUwYjVjOThl*rs_ga_5RMPXG14TE*MTY4MjY0MTA4Ni4xNC4xLjE2ODI2NDE0MTAuNjAuMC4w" target="_blank" /> */}
                     </a>
                   </h1>
                   <h1>
                     <a
-                      href="https://Stake.greatdaneai.com"
+                      href="https://Greatdaneai.com/stake"
                       target="_blank"
                       className="flex"
                       rel="noopener noreferrer"
                     >
                       <button className="landing-btn ">
-                        Stake.greatdaneai.com
+             Greatdaneai.com/stake
                         <AiOutlineLink />
                       </button><p>STAKE ALPHA</p>
                       
@@ -66,18 +66,18 @@ function Earn() {
                       <button className="landing-btn ">
                         Beta.greatdaneai.com
                         <AiOutlineLink />{" "}
-                      </button><p>MINT BETA</p>
+                      </button><p>Mint Robots and Astronauts</p>
                     </a>
                   </h1>
                   <h1>
                     <a
-                      href="https://Bstake.greatdaneai.com"
+                      href="https://Beta.greatdaneai.com/stake"
                       target="_blank"
                       className="flex"
                       rel="noopener noreferrer"
                     >
                       <button className="landing-btn ">
-                        Bstake.greatdaneai.com
+                      Beta.greatdaneai.com/stake
                         <AiOutlineLink />{" "}
                       </button><p>STAKE BETA</p>
                     </a>
@@ -97,12 +97,12 @@ function Earn() {
                       <button className="landing-btn ">
                         Bat.greatdaneai.com
                         <AiOutlineLink />{" "}
-                      </button><p>MINT GAMMA</p>
+                      </button><p>Mint Everydays</p>
                     </a>
                   </h1>
                   <h1>
                     <a
-                      href="https://Bbat.greatdaneai.com"
+                      href="https://Bat.greatdaneai.com/stake"
                       target="_blank"
                       className="flex"
                       rel="noopener noreferrer"
@@ -126,18 +126,18 @@ function Earn() {
                       <button className="landing-btn ">
                         Flower.greatdaneai.com
                         <AiOutlineLink />{" "}
-                      </button><p>MINT FLOWER</p>
+                      </button><p>Mint Flowers on a Wednesday</p>
                     </a>
                   </h1>
                   <h1>
                     <a
-                      href="https://Bflower.greatdaneai.com"
+                      href="https://Flower.greatdaneai.com/stake"
                       target="_blank"
                       className="flex"
                       rel="noopener noreferrer"
                     >
                       <button className="landing-btn ">
-                        Bflower.greatdaneai.com
+                        Flower.greatdaneai.com
                         <AiOutlineLink />{" "}
                       </button><p>STAKE FLOWER</p>
                     </a>
@@ -168,9 +168,9 @@ function Earn() {
                   rel="noopener noreferrer"
                 >
                   <button className="landing-btn ">
-                    Bmeta.greatdaneai.com
+                    on opensea
                     <AiOutlineLink />{" "}
-                  </button><p>STAKE DEBRIS</p>
+                  </button><p>Mint Space Debris on Open Sea</p>
                 </a>
               </h1>
             </div>

@@ -29,8 +29,9 @@ export default function Home() {
     <div>
       {loading ? (
         <Splash />
-      ) : (
-        <>
+        ) : (
+          <>
+          {/* <Splash /> */}
           <LandingPage />
           <CountUpp />
           <WhyChoose />
