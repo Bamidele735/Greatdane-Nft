@@ -45,7 +45,7 @@ function Footer() {
                   </div>
                   <ul>
                     <li>
-                      <a href="https://ipfs-2.thirdwebcdn.com/ipfs/QmSYvvwYRRbzjNQGfiGaafrWf4wSPmCXjUd6PVGuKdDtbE/S%20GreatAI%20white%20paper.pdf"> Download Whitepaper </a>
+                      <a href="https://ipfs-2.thirdwebcdn.com/ipfs/QmSYvvwYRRbzjNQGfiGaafrWf4wSPmCXjUd6PVGuKdDtbE/S%20GreatAI%20white%20paper.pdf" target="_blank"> Download Whitepaper </a>
                     </li>
                     <li>
                       <a href="https://polygonscan.com/address/0x23E4081CD2b218B18be74cC903bbd6579A863495" target="_blank">Smart Contact</a>
